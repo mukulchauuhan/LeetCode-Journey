@@ -6,3 +6,19 @@ I officially started this LeetCode journey on March 3, 2025. Though I've solved 
 Stay tuned for insightful breakdowns, optimized approaches, and a deep dive into problem-solving strategies!
 
 🔥 Let's crack the coding interview together! 🔥
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0075-sort-colors) |
+<!---LeetCode Topics End-->
