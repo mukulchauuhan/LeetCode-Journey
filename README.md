@@ -21,4 +21,8 @@ Stay tuned for insightful breakdowns, optimized approaches, and a deep dive into
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 <!---LeetCode Topics End-->
