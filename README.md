@@ -25,9 +25,18 @@ Stay tuned for insightful breakdowns, optimized approaches, and a deep dive into
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Binary Search
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0792-binary-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
