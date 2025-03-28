@@ -26,6 +26,7 @@ Stay tuned for insightful breakdowns, optimized approaches, and a deep dive into
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Binary Search
 |  |
@@ -35,8 +36,14 @@ Stay tuned for insightful breakdowns, optimized approaches, and a deep dive into
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
