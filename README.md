@@ -13,6 +13,7 @@ Stay tuned for insightful breakdowns, optimized approaches, and a deep dive into
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0075-sort-colors) |
+| [0747-min-cost-climbing-stairs](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@ Stay tuned for insightful breakdowns, optimized approaches, and a deep dive into
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
