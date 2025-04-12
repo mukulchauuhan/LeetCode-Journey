@@ -20,6 +20,7 @@ Stay tuned for insightful breakdowns, optimized approaches, and a deep dive into
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0075-sort-colors) |
+| [1894-merge-strings-alternately](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -50,4 +51,8 @@ Stay tuned for insightful breakdowns, optimized approaches, and a deep dive into
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/1013-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
