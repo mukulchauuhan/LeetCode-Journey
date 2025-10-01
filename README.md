@@ -12,6 +12,7 @@ Stay tuned for insightful breakdowns, optimized approaches, and a deep dive into
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0747-min-cost-climbing-stairs) |
@@ -57,4 +58,8 @@ Stay tuned for insightful breakdowns, optimized approaches, and a deep dive into
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/1894-merge-strings-alternately) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
