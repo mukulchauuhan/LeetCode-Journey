@@ -7,10 +7,27 @@ class Solution:
         #         if nums[i] + nums[j] == target:
         #             return [i, j]
         # return []
-        dict_nums = {}
-        for i in range(len(nums)):
+        dict_anshi={}
+        n = len(nums)
+        for i in range(n):
             complement = target - nums[i]
-            if complement in dict_nums:
-                return [dict_nums[complement], i]
-            dict_nums[nums[i]] = i
+            if complement in dict_anshi:
+                return [dict_anshi[complement], i]
+            dict_anshi[nums[i]] = i
         return []
+
+
+
+
+
+
+
+
+
+        # dict_nums = {}
+        # for i in range(len(nums)):
+        #     complement = target - nums[i]
+        #     if complement in dict_nums:
+        #         return [dict_nums[complement], i]
+        #     dict_nums[nums[i]] = i
+        # return []
