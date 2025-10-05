@@ -1,33 +1,15 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        # Brute-force Approach
-        # n = len(nums)
-        # for i in range(n):
-        #     for j in range (i+1, n):
-        #         if nums[i] + nums[j] == target:
-        #             return [i, j]
-        # return []
-        dict_anshi={}
-        n = len(nums)
-        for i in range(n):
-            complement = target - nums[i]
-            if complement in dict_anshi:
-                return [dict_anshi[complement], i]
-            dict_anshi[nums[i]] = i
+        # Sorting + Two PTR approach
+        nums_with_idx = [(num, i) for i, num in enumerate(nums)]
+        nums_with_idx.sort()
+        left, right = 0, len(nums_with_idx) - 1
+        while left < right:
+            curr_sum = nums_with_idx[left][0] + nums_with_idx[right][0]
+            if curr_sum == target:
+                return [nums_with_idx[left][1], nums_with_idx[right][1]]
+            elif curr_sum < target:
+                left += 1
+            else:
+                right -= 1
         return []
-
-
-
-
-
-
-
-
-
-        # dict_nums = {}
-        # for i in range(len(nums)):
-        #     complement = target - nums[i]
-        #     if complement in dict_nums:
-        #         return [dict_nums[complement], i]
-        #     dict_nums[nums[i]] = i
-        # return []
