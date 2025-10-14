@@ -4,5 +4,5 @@ class Solution:
         for i in range(len(nums)):
             if nums[i] in dict_nums:
                 return True
-            dict_nums[nums[i]]=i
+            dict_nums[nums[i]] = i
         return False
