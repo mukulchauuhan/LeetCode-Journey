@@ -5,9 +5,18 @@ class Solution:
         #         if nums[i] == nums[j]:
         #             return True
         # return False
-        dict_nums = {}
-        for i in range(len(nums)):
-            if nums[i] in dict_nums:
+        # Dict approach
+        # dict_nums = {}
+        # for i in range(len(nums)):
+        #     if nums[i] in dict_nums:
+        #         return True
+        #     dict_nums[nums[i]]=i
+        # return False
+
+        # Set Based approach
+        seen = set()
+        for num in nums:
+            if num in seen:
                 return True
-            dict_nums[nums[i]]=i
+            seen.add(num)
         return False
