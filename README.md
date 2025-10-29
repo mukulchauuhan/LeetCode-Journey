@@ -28,6 +28,7 @@ Stay tuned for insightful breakdowns, optimized approaches, and a deep dive into
 | ------- |
 | [0075-sort-colors](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Stay tuned for insightful breakdowns, optimized approaches, and a deep dive into
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
@@ -65,4 +67,5 @@ Stay tuned for insightful breakdowns, optimized approaches, and a deep dive into
 | ------- |
 | [0001-two-sum](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
