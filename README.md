@@ -13,6 +13,7 @@ Stay tuned for insightful breakdowns, optimized approaches, and a deep dive into
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0217-contains-duplicate) |
@@ -26,6 +27,7 @@ Stay tuned for insightful breakdowns, optimized approaches, and a deep dive into
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0242-valid-anagram) |
@@ -59,6 +61,7 @@ Stay tuned for insightful breakdowns, optimized approaches, and a deep dive into
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/1894-merge-strings-alternately) |
@@ -66,6 +69,7 @@ Stay tuned for insightful breakdowns, optimized approaches, and a deep dive into
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mukulchauuhan/LeetCode-Journey/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
